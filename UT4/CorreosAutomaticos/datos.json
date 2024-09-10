@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Daniel Medina",
+        "correo_electronico": "dam_danielmedina@riberadeltajo.es",
+        "tags_de_intereses": ["Python", "JavaScript", "Ciencia de Datos"]
+    },
+    {
+        "nombre": "Daniel Medina",
+        "correo_electronico": "dam_danielmedina@riberadeltajo.es",
+        "tags_de_intereses": ["Programación Web", "Inteligencia Artificial", "Frontend"]
+    },
+    {
+        "nombre": "Daniel Medina",
+        "correo_electronico": "dam_danielmedina@riberadeltajo.es",
+        "tags_de_intereses": ["Machine Learning", "Big Data", "Data Mining"]
+    }
+]
